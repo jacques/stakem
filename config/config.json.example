@@ -1,0 +1,11 @@
+{
+  "environment": "development",
+  "dbs": {
+    "stakem": {
+      "hostname": "localhost",
+      "username": "stakem",
+      "password": "stakem",
+      "database": "stakem_development"
+    }
+  }
+}
