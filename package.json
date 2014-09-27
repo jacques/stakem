@@ -1,0 +1,26 @@
+{
+  "name": "stakem",
+  "version": "0.0.0",
+  "description": "Stakem is a replacement for Racktables. It keeps track of hardware inventory and components in datacenters.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:siberia/stakem.git"
+  },
+  "keywords": [
+    "inventory"
+  ],
+  "author": "Jacques Marneweck <jacques@siberia.co.za>",
+  "license": "MIT",
+  "dependencies": {
+    "express-bunyan-logger": "^1.1.0",
+    "bunyan": "^1.1.0",
+    "express": "^4.9.5"
+  }
+}
