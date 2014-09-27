@@ -4,6 +4,8 @@ stakem
 Stakem is a replacement for Racktables.  It keeps track of hardware inventory
 and components in datacenters.
 
+Stakem is being rewritten ontop of node.js using the express web framework.
+
 License
 -------
 
